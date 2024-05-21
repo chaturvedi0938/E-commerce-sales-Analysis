@@ -1,7 +1,9 @@
 # E-commerce-sales-Analysis
-**Objective of Project:-**
-The superstore of usa want to improve her business sales and growth.
-The dataset was in xlsx format on kaggle ...
+**project overview:-**
+
+This project focuses on analyzing and visualizing e-commerce sales data from the Superstore market.
+By leveraging Python libraries such as Pandas, Matplotlib, and Seaborn, we’ve cleaned, manipulated, and extracted meaningful insights from the dataset. 
+Whether you’re interested in sales trends, customer behavior, or product performance, this project has covered!
 
 **Steps taken:-**
 
