@@ -3,7 +3,9 @@
 
 This project focuses on analyzing and visualizing e-commerce sales data from the Superstore market.
 By leveraging Python libraries such as Pandas, Matplotlib, and Seaborn, we’ve cleaned, manipulated, and extracted meaningful insights from the dataset. 
-Whether you’re interested in sales trends, customer behavior, or product performance, this project has covered!
+
+**Dateset**
+Superstore_usa Dataset...
 
 **Steps taken:-**
 
