@@ -23,4 +23,10 @@ Whether you’re interested in sales trends, customer behavior, or product perfo
  6. Excel
  7. EDA
  8. Statistics
-    
+
+
+**After Analysis I find some Insights**
+1. Their are 5 types of order priority 'not specified','High','low','medium'and 'critical'
+2. Most of the order shiped by Regular air ship mode
+3. In the product category office supplies mostly shiped by regular air and partly by delivery truck.
+ 
